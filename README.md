@@ -33,3 +33,12 @@ A hotel management system built using Go (Golang) and PostgreSQL, offering APIs 
    ```bash
    git clone https://github.com/your-username/SaffronStaysAssignment.git
    cd SaffronStaysAssignment
+
+
+2. **Run on localhost:**
+
+  Post request: http://localhost:8000/hotel/create
+  GET  request: http://localhost:8000/hotel/id
+
+
+   
